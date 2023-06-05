@@ -1,2 +1,2 @@
-rootProject.name = "UnsplashExample"
+rootProject.name = "Cricket App"
 include ':app'

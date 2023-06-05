@@ -1,18 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     android:padding="@dimen/activity_padding"
     tools:context=".ui.activity.MainActivity">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+       <TextView
+           android:id="@+id/tv_vanue"
+           android:text="Vanue"
+           android:textSize="20sp"
+           android:textStyle="bold"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"/>
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+           android:weightSum="2">
+       <TextView
+           android:id="@+id/tv_teama"
+           android:text="Team A"
+           android:gravity="center"
+           android:textSize="20sp"
+           android:textStyle="bold"
+           android:layout_width="0dp"
+           android:layout_weight="1"
+           android:layout_height="match_parent"/>
+       <TextView
+           android:id="@+id/tv_teamb"
+           android:text="Team A"
+           android:gravity="center"
+           android:textSize="20sp"
+           android:textStyle="bold"
+           android:layout_width="0dp"
+           android:layout_weight="1"
+           android:layout_height="match_parent"/>
+   </LinearLayout>
+   </LinearLayout>
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
-        android:layout_width="@dimen/activity_height_width_zero"
-        android:layout_height="@dimen/activity_height_width_zero"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

@@ -1,7 +1,7 @@
-package com.halil.ozel.unsplashexample.di
+package com.cricket.test.di
 
-import com.halil.ozel.unsplashexample.api.ImageService
-import com.halil.ozel.unsplashexample.utils.Constants
+import com.cricket.test.api.ApiService
+import com.google.gson.GsonBuilder
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -10,18 +10,20 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Singleton
 
+
 @Module
 @InstallIn(SingletonComponent::class)
 object AppModule {
     @Provides
-    fun provideBaseUrl() = Constants.BASE_URL
+    fun provideBaseUrl() ="https://demo.sportz.io/"
 
     @Provides
     @Singleton
-    fun provideRetrofitInstance(BASE_URL: String): ImageService =
+    fun provideRetrofitInstance(BASE_URL: String): ApiService =
         Retrofit.Builder()
             .baseUrl(BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
-            .create(ImageService::class.java)
+            .create(ApiService::class.java)
+
 }

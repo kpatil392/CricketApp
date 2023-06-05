@@ -1,4 +1,4 @@
-package com.halil.ozel.unsplashexample.model
+package com.cricket.test.model
 
 data class Urls(
     val full: String,
