@@ -67,15 +67,7 @@ class MainActivity : AppCompatActivity() {
 
 
             }
-            try {
-                val obj: CricketResp = Gson().fromJson(it.string().toString(), CricketResp::class.java)
-                // binding.tvVanue.setText(obj.Matchdetail.Venue.Name)
 
-                Log.i("DAta---", obj.Matchdetail.Venue.Name)
-            }catch (e:Exception){
-                Log.i("DAta---", e.localizedMessage)
-
-            }
 
 
         }

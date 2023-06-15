@@ -1,0 +1,999 @@
+{
+  "Matchdetail": {
+    "Team_Home": "5",
+    "Team_Away": "4",
+    "Match": {
+      "Livecoverage": "yes",
+      "Id": "187360",
+      "Code": "nzin01312019187360",
+      "League": "icc",
+      "Number": "4th ODI",
+      "Type": "ODI",
+      "Date": "1/31/2019",
+      "Time": "15:00",
+      "Offset": "+13:00",
+      "Daynight": "yes"
+    },
+    "Series": {
+      "Id": "3068",
+      "Name": "India in New Zealand, 5 ODI Series, 2019",
+      "Status": "India lead the 5 ODI series 3-1",
+      "Tour": "956",
+      "Tour_Name": "India tour of New Zealand, 2019"
+    },
+    "Venue": {
+      "Id": "170",
+      "Name": "Seddon Park, Hamilton"
+    },
+    "Officials": {
+      "Umpires": "Nigel Llong (ENG),Chris Brown (NZ) and Shaun George (SA)",
+      "Referee": "David Boon (AUS)"
+    },
+    "Weather": "Sunny",
+    "Tosswonby": "5",
+    "Status": "Match Ended",
+    "Status_Id": "114",
+    "Player_Match": "Trent Boult",
+    "Result": "New Zealand beat India by 8 wickets",
+    "Winningteam": "5",
+    "Winmargin": "8 wickets",
+    "Equation": "New Zealand beat India by 8 wickets"
+  },
+  "Nuggets": [
+    "New Zealand won the toss and elected to field",
+    "Sodhi, Bracewell, Munro and Ferguson out for NZ ",
+    "Astle, Colin, Henry and Neesham in for NZ",
+    "Shami and Kohli out for India",
+    "Gill and Khaleel in for India",
+    "ODI debut for Shubman Gill",
+    "200th ODI for Rohit Sharma"
+  ],
+  "Innings": [
+    {
+      "Number": "First",
+      "Battingteam": "4",
+      "Total": "92",
+      "Wickets": "10",
+      "Overs": "30.5",
+      "Runrate": "2.98",
+      "Byes": "0",
+      "Legbyes": "1",
+      "Wides": "6",
+      "Noballs": "0",
+      "Penalty": "0",
+      "AllottedOvers": "50",
+      "Batsmen": [
+        {
+          "Batsman": "3852",
+          "Runs": "7",
+          "Balls": "23",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "17",
+          "Strikerate": "30.43",
+          "Dismissal": "caught",
+          "Howout": "c & b Trent Boult",
+          "Bowler": "4338",
+          "Fielder": "4338"
+        },
+        {
+          "Batsman": "3722",
+          "Runs": "13",
+          "Balls": "20",
+          "Fours": "1",
+          "Sixes": "1",
+          "Dots": "15",
+          "Strikerate": "65",
+          "Dismissal": "lbw",
+          "Howout": "lbw b Trent Boult",
+          "Bowler": "4338",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "66818",
+          "Runs": "9",
+          "Balls": "21",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "17",
+          "Strikerate": "42.85",
+          "Dismissal": "caught",
+          "Howout": "c & b Trent Boult",
+          "Bowler": "4338",
+          "Fielder": "4338"
+        },
+        {
+          "Batsman": "4176",
+          "Runs": "0",
+          "Balls": "4",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "4",
+          "Strikerate": "0",
+          "Dismissal": "caught",
+          "Howout": "c Martin Guptill b Colin de Grandhomme",
+          "Bowler": "11703",
+          "Fielder": "4964"
+        },
+        {
+          "Batsman": "3632",
+          "Runs": "0",
+          "Balls": "3",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "3",
+          "Strikerate": "0",
+          "Dismissal": "caught",
+          "Howout": "c Tom Latham b Colin de Grandhomme",
+          "Bowler": "11703",
+          "Fielder": "10167"
+        },
+        {
+          "Batsman": "4532",
+          "Runs": "1",
+          "Balls": "7",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "6",
+          "Strikerate": "14.28",
+          "Dismissal": "lbw",
+          "Howout": "lbw b Trent Boult",
+          "Bowler": "4338",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "63751",
+          "Runs": "16",
+          "Balls": "20",
+          "Fours": "4",
+          "Sixes": "0",
+          "Dots": "16",
+          "Strikerate": "80",
+          "Dismissal": "caught",
+          "Howout": "c Tom Latham b Trent Boult",
+          "Bowler": "4338",
+          "Fielder": "10167"
+        },
+        {
+          "Batsman": "5132",
+          "Runs": "1",
+          "Balls": "12",
+          "Fours": "0",
+          "Sixes": "0",
+          "Dots": "11",
+          "Strikerate": "8.33",
+          "Dismissal": "bowled",
+          "Howout": "b Colin de Grandhomme",
+          "Bowler": "11703",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "63187",
+          "Runs": "15",
+          "Balls": "33",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "23",
+          "Strikerate": "45.45",
+          "Dismissal": "caught",
+          "Howout": "c Colin de Grandhomme b Todd Astle",
+          "Bowler": "11706",
+          "Fielder": "11703"
+        },
+        {
+          "Batsman": "9844",
+          "Runs": "18",
+          "Balls": "37",
+          "Fours": "3",
+          "Sixes": "0",
+          "Dots": "28",
+          "Strikerate": "48.64",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "65867",
+          "Runs": "5",
+          "Balls": "5",
+          "Fours": "1",
+          "Sixes": "0",
+          "Dots": "3",
+          "Strikerate": "100",
+          "Dismissal": "bowled",
+          "Howout": "b James Neesham",
+          "Bowler": "10172",
+          "Fielder": ""
+        }
+      ],
+      "Partnership_Current": {
+        "Runs": "12",
+        "Balls": "10",
+        "Batsmen": [
+          {
+            "Batsman": "65867",
+            "Runs": "5",
+            "Balls": "5"
+          },
+          {
+            "Batsman": "9844",
+            "Runs": "6",
+            "Balls": "5"
+          }
+        ]
+      },
+      "Bowlers": [
+        {
+          "Bowler": "60544",
+          "Overs": "8",
+          "Maidens": "2",
+          "Runs": "30",
+          "Wickets": "0",
+          "Economyrate": "3.75",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "33"
+        },
+        {
+          "Bowler": "4338",
+          "Overs": "10",
+          "Maidens": "4",
+          "Runs": "21",
+          "Wickets": "5",
+          "Economyrate": "2.1",
+          "Noballs": "0",
+          "Wides": "2",
+          "Dots": "52"
+        },
+        {
+          "Bowler": "11703",
+          "Overs": "10",
+          "Maidens": "2",
+          "Runs": "26",
+          "Wickets": "3",
+          "Economyrate": "2.6",
+          "Noballs": "0",
+          "Wides": "3",
+          "Dots": "48"
+        },
+        {
+          "Bowler": "11706",
+          "Overs": "2",
+          "Maidens": "0",
+          "Runs": "9",
+          "Wickets": "1",
+          "Economyrate": "4.5",
+          "Noballs": "0",
+          "Wides": "1",
+          "Dots": "7"
+        },
+        {
+          "Bowler": "10172",
+          "Overs": "0.5",
+          "Maidens": "0",
+          "Runs": "5",
+          "Wickets": "1",
+          "Economyrate": "6",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "3"
+        }
+      ],
+      "FallofWickets": [
+        {
+          "Batsman": "3722",
+          "Score": "21",
+          "Overs": "5.5"
+        },
+        {
+          "Batsman": "3852",
+          "Score": "23",
+          "Overs": "8"
+        },
+        {
+          "Batsman": "4176",
+          "Score": "33",
+          "Overs": "10.2"
+        },
+        {
+          "Batsman": "3632",
+          "Score": "33",
+          "Overs": "10.5"
+        },
+        {
+          "Batsman": "66818",
+          "Score": "33",
+          "Overs": "12"
+        },
+        {
+          "Batsman": "4532",
+          "Score": "35",
+          "Overs": "13.1"
+        },
+        {
+          "Batsman": "5132",
+          "Score": "40",
+          "Overs": "16.4"
+        },
+        {
+          "Batsman": "63751",
+          "Score": "55",
+          "Overs": "19.4"
+        },
+        {
+          "Batsman": "63187",
+          "Score": "80",
+          "Overs": "29.1"
+        },
+        {
+          "Batsman": "65867",
+          "Score": "92",
+          "Overs": "30.5"
+        }
+      ],
+      "PowerPlay": {
+        "PP1": "1-10",
+        "PP2": "11-40"
+      }
+    },
+    {
+      "Number": "Second",
+      "Battingteam": "5",
+      "Total": "93",
+      "Wickets": "2",
+      "Overs": "14.4",
+      "Runrate": "6.34",
+      "Byes": "0",
+      "Legbyes": "0",
+      "Wides": "0",
+      "Noballs": "1",
+      "Penalty": "0",
+      "AllottedOvers": "50",
+      "Target": "93",
+      "Batsmen": [
+        {
+          "Batsman": "4964",
+          "Runs": "14",
+          "Balls": "4",
+          "Fours": "2",
+          "Sixes": "1",
+          "Dots": "1",
+          "Strikerate": "350",
+          "Dismissal": "caught",
+          "Howout": "c Hardik Pandya b Bhuvneshwar Kumar",
+          "Bowler": "5132",
+          "Fielder": "63751"
+        },
+        {
+          "Batsman": "57594",
+          "Runs": "30",
+          "Balls": "42",
+          "Fours": "4",
+          "Sixes": "1",
+          "Dots": "30",
+          "Strikerate": "71.42",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "4330",
+          "Runs": "11",
+          "Balls": "18",
+          "Fours": "2",
+          "Sixes": "0",
+          "Dots": "14",
+          "Strikerate": "61.11",
+          "Dismissal": "caught",
+          "Howout": "c Dinesh Karthik b Bhuvneshwar Kumar",
+          "Bowler": "5132",
+          "Fielder": "3632"
+        },
+        {
+          "Batsman": "3752",
+          "Isonstrike": true,
+          "Runs": "37",
+          "Balls": "25",
+          "Fours": "2",
+          "Sixes": "3",
+          "Dots": "11",
+          "Strikerate": "148",
+          "Dismissal": "not out",
+          "Howout": "not out",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "10167",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "10172",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "57903",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "11703",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "11706",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "60544",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        },
+        {
+          "Batsman": "4338",
+          "Runs": "",
+          "Balls": "",
+          "Fours": "",
+          "Sixes": "",
+          "Dots": "",
+          "Strikerate": "",
+          "Dismissal": "",
+          "Howout": "",
+          "Bowler": "",
+          "Fielder": ""
+        }
+      ],
+      "Partnership_Current": {
+        "Runs": "54",
+        "Balls": "50",
+        "Batsmen": [
+          {
+            "Batsman": "3752",
+            "Runs": "37",
+            "Balls": "25"
+          },
+          {
+            "Batsman": "57594",
+            "Runs": "17",
+            "Balls": "25"
+          }
+        ]
+      },
+      "Bowlers": [
+        {
+          "Bowler": "5132",
+          "Overs": "5",
+          "Maidens": "1",
+          "Runs": "25",
+          "Wickets": "2",
+          "Economyrate": "5",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "22"
+        },
+        {
+          "Bowler": "65867",
+          "Overs": "3",
+          "Maidens": "0",
+          "Runs": "19",
+          "Wickets": "0",
+          "Economyrate": "6.33",
+          "Noballs": "1",
+          "Wides": "0",
+          "Dots": "12"
+        },
+        {
+          "Bowler": "63751",
+          "Overs": "3",
+          "Maidens": "0",
+          "Runs": "15",
+          "Wickets": "0",
+          "Economyrate": "5",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "12"
+        },
+        {
+          "Bowler": "9844",
+          "Isbowlingtandem": true,
+          "Isbowlingnow": true,
+          "ThisOver": [
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "1"
+            },
+            {
+              "T": "",
+              "B": "6"
+            },
+            {
+              "T": "",
+              "B": "4"
+            }
+          ],
+          "Overs": "2.4",
+          "Maidens": "0",
+          "Runs": "32",
+          "Wickets": "0",
+          "Economyrate": "12",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "5"
+        },
+        {
+          "Bowler": "63187",
+          "Isbowlingtandem": true,
+          "Overs": "1",
+          "Maidens": "0",
+          "Runs": "2",
+          "Wickets": "0",
+          "Economyrate": "2",
+          "Noballs": "0",
+          "Wides": "0",
+          "Dots": "4"
+        }
+      ],
+      "FallofWickets": [
+        {
+          "Batsman": "4964",
+          "Score": "14",
+          "Overs": "0.4"
+        },
+        {
+          "Batsman": "4330",
+          "Score": "39",
+          "Overs": "6.2"
+        }
+      ],
+      "PowerPlay": {
+        "PP1": "1-10",
+        "PP2": "11-40"
+      }
+    }
+  ],
+  "Teams": {
+    "4": {
+      "Name_Full": "India",
+      "Name_Short": "IND",
+      "Players": {
+        "3852": {
+          "Position": "1",
+          "Name_Full": "Rohit Sharma",
+          "Iscaptain": true,
+          "Batting": {
+            "Style": "RHB",
+            "Average": "47.88",
+            "Strikerate": "88.46",
+            "Runs": "7806"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "64.37",
+            "Economyrate": "5.21",
+            "Wickets": "8"
+          }
+        },
+        "3722": {
+          "Position": "2",
+          "Name_Full": "Shikhar Dhawan",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "45.36",
+            "Strikerate": "93.59",
+            "Runs": "5172"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "66818": {
+          "Position": "3",
+          "Name_Full": "Shubman Gill",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "9",
+            "Strikerate": "42.85",
+            "Runs": "9"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "4176": {
+          "Position": "4",
+          "Name_Full": "Ambati Rayudu",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "49.09",
+            "Strikerate": "79.7",
+            "Runs": "1571"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "41.33",
+            "Economyrate": "6.14",
+            "Wickets": "3"
+          }
+        },
+        "3632": {
+          "Position": "5",
+          "Name_Full": "Dinesh Karthik",
+          "Iskeeper": true,
+          "Batting": {
+            "Style": "RHB",
+            "Average": "31.03",
+            "Strikerate": "73.7",
+            "Runs": "1738"
+          },
+          "Bowling": {
+            "Style": "",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "4532": {
+          "Position": "6",
+          "Name_Full": "Kedar Jadhav",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "44",
+            "Strikerate": "108.39",
+            "Runs": "968"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "31.45",
+            "Economyrate": "4.97",
+            "Wickets": "24"
+          }
+        },
+        "63751": {
+          "Position": "7",
+          "Name_Full": "Hardik Pandya",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "28.58",
+            "Strikerate": "113.38",
+            "Runs": "686"
+          },
+          "Bowling": {
+            "Style": "RMF",
+            "Average": "40.42",
+            "Economyrate": "5.51",
+            "Wickets": "42"
+          }
+        },
+        "63187": {
+          "Position": "8",
+          "Name_Full": "Kuldeep Yadav",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "15.6",
+            "Strikerate": "56.11",
+            "Runs": "78"
+          },
+          "Bowling": {
+            "Style": "SLC",
+            "Average": "20.64",
+            "Economyrate": "4.77",
+            "Wickets": "77"
+          }
+        },
+        "9844": {
+          "Position": "9",
+          "Name_Full": "Yuzvendra Chahal",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "11.33",
+            "Strikerate": "52.3",
+            "Runs": "34"
+          },
+          "Bowling": {
+            "Style": "LBG",
+            "Average": "24.27",
+            "Economyrate": "4.82",
+            "Wickets": "68"
+          }
+        },
+        "5132": {
+          "Position": "10",
+          "Name_Full": "Bhuvneshwar Kumar",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "15.16",
+            "Strikerate": "74.24",
+            "Runs": "470"
+          },
+          "Bowling": {
+            "Style": "RM",
+            "Average": "35.89",
+            "Economyrate": "4.98",
+            "Wickets": "113"
+          }
+        },
+        "65867": {
+          "Position": "11",
+          "Name_Full": "Khaleel Ahmed",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "4.5",
+            "Strikerate": "52.94",
+            "Runs": "9"
+          },
+          "Bowling": {
+            "Style": "LM",
+            "Average": "30.72",
+            "Economyrate": "5.36",
+            "Wickets": "11"
+          }
+        }
+      }
+    },
+    "5": {
+      "Name_Full": "New Zealand",
+      "Name_Short": "NZ",
+      "Players": {
+        "4964": {
+          "Position": "1",
+          "Name_Full": "Martin Guptill",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "42.3",
+            "Strikerate": "86.72",
+            "Runs": "6176"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "24.5",
+            "Economyrate": "5.39",
+            "Wickets": "4"
+          }
+        },
+        "57594": {
+          "Position": "2",
+          "Name_Full": "Henry Nicholls",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "35.6",
+            "Strikerate": "87.42",
+            "Runs": "890"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "4330": {
+          "Position": "3",
+          "Name_Full": "Kane Williamson",
+          "Iscaptain": true,
+          "Batting": {
+            "Style": "RHB",
+            "Average": "45.7",
+            "Strikerate": "83.13",
+            "Runs": "5439"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "35.6",
+            "Economyrate": "5.42",
+            "Wickets": "35"
+          }
+        },
+        "3752": {
+          "Position": "4",
+          "Name_Full": "Ross Taylor",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "48.1",
+            "Strikerate": "83.3",
+            "Runs": "7890"
+          },
+          "Bowling": {
+            "Style": "OB",
+            "Average": "0",
+            "Economyrate": "5",
+            "Wickets": "0"
+          }
+        },
+        "10167": {
+          "Position": "5",
+          "Name_Full": "Tom Latham",
+          "Iskeeper": true,
+          "Batting": {
+            "Style": "LHB",
+            "Average": "33.31",
+            "Strikerate": "82.69",
+            "Runs": "2299"
+          },
+          "Bowling": {
+            "Style": "RM",
+            "Average": "0",
+            "Economyrate": "0",
+            "Wickets": "0"
+          }
+        },
+        "10172": {
+          "Position": "6",
+          "Name_Full": "James Neesham",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "30.12",
+            "Strikerate": "102.63",
+            "Runs": "934"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "34.58",
+            "Economyrate": "6.46",
+            "Wickets": "41"
+          }
+        },
+        "57903": {
+          "Position": "7",
+          "Name_Full": "Mitchell Santner",
+          "Batting": {
+            "Style": "LHB",
+            "Average": "27.17",
+            "Strikerate": "89.95",
+            "Runs": "788"
+          },
+          "Bowling": {
+            "Style": "SLO",
+            "Average": "34.63",
+            "Economyrate": "4.88",
+            "Wickets": "60"
+          }
+        },
+        "11703": {
+          "Position": "8",
+          "Name_Full": "Colin de Grandhomme",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "28.21",
+            "Strikerate": "104.49",
+            "Runs": "395"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "46.18",
+            "Economyrate": "5.13",
+            "Wickets": "16"
+          }
+        },
+        "11706": {
+          "Position": "9",
+          "Name_Full": "Todd Astle",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "34.50",
+            "Strikerate": "113.11",
+            "Runs": "69"
+          },
+          "Bowling": {
+            "Style": "LB",
+            "Average": "19.87",
+            "Economyrate": "5.3",
+            "Wickets": "8"
+          }
+        },
+        "60544": {
+          "Position": "10",
+          "Name_Full": "Matt Henry",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "17.60",
+            "Strikerate": "99.43",
+            "Runs": "176"
+          },
+          "Bowling": {
+            "Style": "RFM",
+            "Average": "27.21",
+            "Economyrate": "5.66",
+            "Wickets": "71"
+          }
+        },
+        "4338": {
+          "Position": "11",
+          "Name_Full": "Trent Boult",
+          "Batting": {
+            "Style": "RHB",
+            "Average": "10.21",
+            "Strikerate": "76.47",
+            "Runs": "143"
+          },
+          "Bowling": {
+            "Style": "LFM",
+            "Average": "25.12",
+            "Economyrate": "5.12",
+            "Wickets": "138"
+          }
+        }
+      }
+    }
+  },
+  "Notes": {
+    "1": [
+      "Shubman Gill makes his ODI debut for India",
+      "Power play 1  (1-10): India 32/2",
+      "Referral 1 (13.1 ovs): K Jadhav against NZ (LBW) Unsuccessful (NZ: 1, IND: 0)",
+      "India 35/6: K Jadhav lbw b Trent Boult 1(7)",
+      "Drinks: India 39/6 in 15.0 overs",
+      "T Boult 5th ODI 5-wicket haul: 5/21 (9.4)",
+      "K Ahmed dropped on 0 by R Taylor in 29.3 overs",
+      "Innings Break: India 92/10 in 30.5 overs"
+    ],
+    "2": [
+      "New Zealand 50/2 in 8.4 overs",
+      "Power play 1  (1-10): New Zealand 51/2",
+      "3rd wkt Partnership: 50 off 49 balls between H Nicholls (17) and R Taylor (33)"
+    ]
+  }
+}
