@@ -14,12 +14,13 @@ import com.google.gson.Gson
 import dagger.hilt.android.AndroidEntryPoint
 import org.json.JSONException
 import org.json.JSONObject
+import java.util.*
 
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
-    private val matchViewModel: MatchViewModel by viewModels()
+   // private val matchViewModel: MatchViewModel by viewModels()
     lateinit var strTeamA:String
     lateinit var strTeamB:String
 
@@ -27,7 +28,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setView()
-        getdata()
+       // getdata()
     }
 
     private fun setView() {
@@ -45,10 +46,10 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    fun getdata() {
+ /*   fun getdata() {
         matchViewModel.mCricketDataStr.observe(this) {
             Log.i("DAtaKK---", it.string().toString())
-            val hashMap=(getPlayer(getData(it.string().toString(), "Teams")))
+           *//* val hashMap=(getPlayer(getData(it.string().toString(), "Teams")))
             hashMap.forEach {
                 val keyByIndex0 = hashMap.keys.elementAt(0) // Get key.
                 val valueOfElement0 = hashMap.getValue(keyByIndex0) // Get Value.
@@ -63,19 +64,19 @@ class MainActivity : AppCompatActivity() {
                 binding.tvTeama.setText("${nf1} (${ns1})")
                 binding.tvTeamb.setText("${nf2} (${ns2})")
                 strTeamA=valueOfElement0
-                strTeamB=valueOfElement1
+                strTeamB=valueOfElement1*//*
 
 
             }
 
 
 
-        }
-
-    }
+        }*/
 
 
-    private fun getData(str: String, ss: String): String {
+
+
+ /*   private fun getData(str: String, ss: String): String {
         val obj = JSONObject(str)
         val keys: Iterator<*> = obj.keys()
         while (keys.hasNext()) {
@@ -83,14 +84,13 @@ class MainActivity : AppCompatActivity() {
             if (key.equals(ss)) {
                 val value: String = obj.getString(key) //This is where the error comes
                 return value
-                break
-                //  setInner(value)
             }
         }
         return ""
 
-    }
+    }*/
 
+/*
     private fun getPlayer(str: String): HashMap<String, String> {
         val hmap: HashMap<String, String> = HashMap()
         val obj = JSONObject(str)
@@ -99,12 +99,13 @@ class MainActivity : AppCompatActivity() {
             val key = keys.next() as String
             val value: String = obj.getString(key) //This is where the error comes
             //  Log.i("Kundan  Inner Data---", key + "--" + value);
-            val str = getData(value, "Players")
-            Log.i("Kiru777 Json Data Inner---", str)
+            //val str = getData(value, "Players")
+          //  Log.i("Kiru777 Json Data Inner---", str)
             hmap.put(key,value)
         }
         return hmap
     }
+*/
 
 
 

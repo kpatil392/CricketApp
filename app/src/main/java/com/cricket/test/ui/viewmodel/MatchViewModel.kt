@@ -21,13 +21,13 @@ class MatchViewModel @Inject constructor(private val repo: MatchRepository):View
     private val mCricketRespDataStr = MutableLiveData<ResponseBody>()
     val mCricketDataStr: LiveData<ResponseBody> get() = mCricketRespDataStr
 
-    private val mCricketRespData = MutableLiveData<CricketResp>()
-    val mCricketData: LiveData<CricketResp> get() = mCricketRespData
+    /*private val mCricketRespData = MutableLiveData<CricketResp>()
+    val mCricketData: LiveData<CricketResp> get() = mCricketRespData*/
 
     init {
         getMatchStr()
     }
-
+/*
     fun getMatch() {
         viewModelScope.launch(Dispatchers.IO) {
             repo.getMatchDetails().let { response ->
@@ -40,7 +40,9 @@ class MatchViewModel @Inject constructor(private val repo: MatchRepository):View
 
         }
 
-    }    fun getMatchStr() {
+    }*/
+
+    fun getMatchStr() {
         viewModelScope.launch(Dispatchers.IO) {
             repo.getMatchDetailBody().let { response ->
                 if (response.isSuccessful) {

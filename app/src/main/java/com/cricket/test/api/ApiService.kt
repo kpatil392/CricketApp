@@ -9,14 +9,14 @@ import retrofit2.http.GET
 interface ApiService {
 
 
-    @GET("posts")
-    suspend fun getAllPost():List<Post>
+   /* @GET("posts")
+    suspend fun getAllPost():List<Post>*/
 
-    @GET("/nzin01312019187360.json")
+  /*  @GET("/nzin01312019187360.json")
     suspend fun getMatchDetails():Response<CricketResp>
 
     @GET("/nzin01312019187360.json")
-    suspend fun getMatchDetailstr():Response<String>
+    suspend fun getMatchDetailstr():Response<String>*/
 
     @GET("/nzin01312019187360.json")
     suspend fun getMatchDetailBody():Response<ResponseBody>
